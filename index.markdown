@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Gloo Header](/assets/gloo_header.png)
+![Gloo Header](/assets/img/gloo-header.png)
